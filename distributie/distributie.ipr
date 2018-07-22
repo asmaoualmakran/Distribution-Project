@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/distributie.iml" filepath="$PROJECT_DIR$/distributie.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-common-7.2.1(1).jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/gson-2.8.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/lucene-core-7.2.1(1).jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/gson-2.8.2(1).jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17(1).jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/lucene-core-7.2.1.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/vader-sentiment-analyzer-1.0(1).jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/vader-sentiment-analyzer-1.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-common-7.2.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
